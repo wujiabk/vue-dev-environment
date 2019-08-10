@@ -3,13 +3,13 @@
 
 ## 依赖环境
 ```
-	node v10.16.0
-	npm v6.9.0
+node v10.16.0
+npm v6.9.0
 ```
 
 ## 拉取依赖
 ```
-	npm install
+npm install
 ```
 
 ## 运行
